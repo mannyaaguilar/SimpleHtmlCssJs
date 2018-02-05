@@ -1,0 +1,20 @@
+p {
+    color: blue;
+
+}
+
+body {
+
+    background-color: mediumaquamarine;
+}
+
+.mary{
+    background-color: cornflowerblue;
+    width: 500px;
+}
+
+.becky{
+    background-color: rebeccapurple;
+    width: 500px;
+    height: 500px;
+}
